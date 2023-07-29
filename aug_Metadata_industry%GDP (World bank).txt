@@ -1,0 +1,8 @@
+1. Oil rents (% of GDP)
+2. Industry (including construction), value added (annual % growth)
+3. CO2 emissions from manufacturing industries and construction (% of total fuel combustion)
+4. Manufacturing, value added (current US$)
+5. Manufacturing, value added (% of GDP)
+6. Industry (including construction), value added (% of GDP)
+7. Coal rents (% of GDP)
+8. Natural gas rents (% of GDP)
